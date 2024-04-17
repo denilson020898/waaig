@@ -8,7 +8,7 @@ import (
 	"waaig/lexer"
 )
 
-const PROMPT = "c=3 "
+const PROMPT = "(╯°□°）╯︵ ┻━┻) c=3 "
 
 func Start(in io.Reader, out io.Writer) {
 	scanner := bufio.NewScanner(in)
